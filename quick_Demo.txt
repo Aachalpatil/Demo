@@ -3,5 +3,5 @@ Reach back to us.
 
 added all info.
 
-"I am workinh with branches in Git"
+"I am working with branches in Git"
 new branch="second"
